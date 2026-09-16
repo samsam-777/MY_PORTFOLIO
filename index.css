@@ -1,6 +1,3 @@
-/* =========================
-   GENERAL
-========================= */
 
 * {
     margin: 0;
@@ -23,11 +20,6 @@ section {
 .section {
     padding: 70px 8%;
 }
-
-
-/* =========================
-   NAVIGATION
-========================= */
 
 header {
     background: #111a2e;
@@ -67,11 +59,6 @@ header {
 .navbar a:hover {
     color: #b27cff;
 }
-
-
-/* =========================
-   HERO
-========================= */
 
 .hero {
     min-height: 330px;
@@ -138,11 +125,6 @@ header {
     font-style: italic;
 }
 
-
-/* =========================
-   ABOUT
-========================= */
-
 .about {
     background: #0d1629;
 }
@@ -166,11 +148,6 @@ header {
 .about p {
     color: #c8ccda;
 }
-
-
-/* =========================
-   SKILLS
-========================= */
 
 .section-title p {
     color: #b27cff;
@@ -214,11 +191,6 @@ header {
     color: #b27cff;
 }
 
-
-/* =========================
-   GALLERY
-========================= */
-
 .gallery {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -236,11 +208,6 @@ header {
 .gallery img:hover {
     transform: scale(1.03);
 }
-
-
-/* =========================
-   CONTACT
-========================= */
 
 .contact {
     background: #0d1629;
@@ -285,11 +252,6 @@ header {
     color: #b27cff;
 }
 
-
-/* =========================
-   FORM
-========================= */
-
 .contact-form {
     display: flex;
     flex-direction: column;
@@ -326,11 +288,6 @@ header {
     background: #8d5ee8;
 }
 
-
-/* =========================
-   FOOTER
-========================= */
-
 footer {
     padding: 25px 8%;
     text-align: center;
@@ -342,11 +299,6 @@ footer {
     color: #b27cff;
     margin-top: 5px;
 }
-
-
-/* =========================
-   RESPONSIVE DESIGN
-========================= */
 
 @media (max-width: 900px) {
 
